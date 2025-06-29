@@ -57,8 +57,8 @@ Click below to view dashboards directly:
 ![Dashboard Page 3][(https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%203rd%20page.png?raw=true)
 ](https://github.com/giramkarnikita/giramkarnikita--Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%203rd%20page.png)
 ### 📊 Dashboard Page 4  
-![Dashboard Page 4](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%204th%20page.png?raw=true)
-
+![Dashboard Page 4][(https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%204th%20page.png?raw=true)
+](https://github.com/giramkarnikita/giramkarnikita--Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%204th%20page.png)
 ### 📊 Dashboard Page 5  
 ![Dashboard Page 5](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%205th%20page.png?raw=true)
 
