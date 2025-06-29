@@ -1,6 +1,6 @@
-# 🦈 Startup Investment Analysis (Shark Tank India)
+# 🦈 Startup Investment Analysis (Shark Tank Data)
 
-An analytical deep dive into Shark Tank India startup investment trends using a cleaned dataset. This project explores industry-wise funding, shark behavior, equity/debt patterns, and founder success metrics — presented through interactive Power BI dashboards.
+A complete end-to-end data analysis project based on Shark Tank India startup investment data. The project includes data cleaning (Excel & Python), SQL-based transformation, and powerful dashboards built in Power BI. It provides real business insights into investor behavior, funding types, and startup success patterns.
 
 ---
 
@@ -14,37 +14,53 @@ An analytical deep dive into Shark Tank India startup investment trends using a 
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔧 Tools & Technologies Used
 
 - 🐍 Python (Pandas, Matplotlib, Seaborn)
-- 📈 Power BI (for dashboarding)
-- 📊 Microsoft Excel (initial exploration)
-- 💾 SQL (for aggregations and transformations)
+- 📈 Power BI (for dashboard visualization)
+- 📊 Microsoft Excel (for data cleaning)
+- 💾 SQL (for relational queries and joins)
 
 ---
 
 ## 📁 Dataset Overview
 
-Cleaned dataset includes:
-
+The cleaned dataset contains:
 - `Sharks` – Investor profiles  
 - `Pitches` – Detailed pitch data  
 - `Pitches_2` – Simplified deal info  
 - `Domain` – Startup categories  
 
-✅ Nulls handled, values standardized, and columns renamed for analysis-ready structure.
+✅ Missing values handled, columns renamed, data standardized.
 
 ---
 
 ## 🖼️ Dashboard Screenshots
 
-Click below to view full dashboard visuals:
+Click below to view dashboards directly:
 
-1. 📸 [Dashboard Screenshot 1]([Dashboard%20SS%201st%20page.png](https://github.com/giramkarnikita/giramkarnikita--Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png))  
-2. 📸 [Dashboard Screenshot 2](Dashboard%20SS%202nd%20page.png)  
-3. 📸 [Dashboard Screenshot 3](Dashboard%20SS%203rd%20page.png)  
-4. 📸 [Dashboard Screenshot 4](Dashboard%20SS%204th%20page.png)  
-5. 📸 [Dashboard Screenshot 5](Dashboard%20SS%205th%20page.png)
+1. 📸 [Dashboard SS 1st page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png?raw=true)  
+2. 📸 [Dashboard SS 2nd page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%202nd%20page.png?raw=true)  
+3. 📸 [Dashboard SS 3rd page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%203rd%20page.png?raw=true)  
+4. 📸 [Dashboard SS 4th page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%204th%20page.png?raw=true)  
+5. 📸 [Dashboard SS 5th page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%205th%20page.png?raw=true)
+
+> 🔍 Preview below:
+
+### 📊 Dashboard Page 1  
+![Dashboard Page 1](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png?raw=true)
+
+### 📊 Dashboard Page 2  
+![Dashboard Page 2](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%202nd%20page.png?raw=true)
+
+### 📊 Dashboard Page 3  
+![Dashboard Page 3](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%203rd%20page.png?raw=true)
+
+### 📊 Dashboard Page 4  
+![Dashboard Page 4](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%204th%20page.png?raw=true)
+
+### 📊 Dashboard Page 5  
+![Dashboard Page 5](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%205th%20page.png?raw=true)
 
 ---
 
@@ -53,14 +69,16 @@ Click below to view full dashboard visuals:
 - Most active sharks by investment count  
 - Domain-wise distribution of deals  
 - Equity vs. Debt usage frequency  
-- Single vs Multi-shark deal breakdown  
-- Deal amount and equity offered distribution  
+- Single vs. multi-shark deal breakdown  
+- Deal amount vs. equity offered trend
 
 ---
 
-👩‍💻 **Author**
+## 👩‍💻 Author
 
 **Nikita Giramkar**  
-📬 Data Analytics Enthusiast | Dashboard Developer
+📬 Data Analytics Enthusiast | Dashboard Developer  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nikita-giramkar)
 
-[www.linkedin.com/in/nikita-giramkar]
+---
+
