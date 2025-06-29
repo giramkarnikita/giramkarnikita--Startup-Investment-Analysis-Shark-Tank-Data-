@@ -39,7 +39,7 @@ The cleaned dataset contains:
 
 Click below to view dashboards directly:
 
-1. 📸 [Dashboard SS 1st page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png?raw=true)  
+1. 📸 [Dashboard SS 1st page][(https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png?raw=true)  ](https://github.com/giramkarnikita/giramkarnikita--Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png)
 2. 📸 [Dashboard SS 2nd page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%202nd%20page.png?raw=true)  
 3. 📸 [Dashboard SS 3rd page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%203rd%20page.png?raw=true)  
 4. 📸 [Dashboard SS 4th page](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%204th%20page.png?raw=true)  
@@ -48,8 +48,8 @@ Click below to view dashboards directly:
 > 🔍 Preview below:
 
 ### 📊 Dashboard Page 1  
-![Dashboard Page 1](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png?raw=true)
-
+![Dashboard Page 1][https://github.com/giramkarnikita/Startup-Inv(estment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png?raw=true)
+](https://github.com/giramkarnikita/giramkarnikita--Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png)
 ### 📊 Dashboard Page 2  
 ![Dashboard Page 2](https://github.com/giramkarnikita/Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%202nd%20page.png?raw=true)
 
