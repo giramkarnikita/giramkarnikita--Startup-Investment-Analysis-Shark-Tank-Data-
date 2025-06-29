@@ -40,7 +40,7 @@ Cleaned dataset includes:
 
 Click below to view full dashboard visuals:
 
-1. 📸 [Dashboard Screenshot 1](Dashboard%20SS%201st%20page.png)  
+1. 📸 [Dashboard Screenshot 1]([Dashboard%20SS%201st%20page.png](https://github.com/giramkarnikita/giramkarnikita--Startup-Investment-Analysis-Shark-Tank-Data-/blob/main/Dashboard/Dashboard%20SS%201st%20page.png))  
 2. 📸 [Dashboard Screenshot 2](Dashboard%20SS%202nd%20page.png)  
 3. 📸 [Dashboard Screenshot 3](Dashboard%20SS%203rd%20page.png)  
 4. 📸 [Dashboard Screenshot 4](Dashboard%20SS%204th%20page.png)  
